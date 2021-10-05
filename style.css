@@ -122,7 +122,7 @@ img {
   margin-bottom: 1.5rem;
 }
 
-@media (min-width: 800px) {
+@media (min-width: 1100px) {
   body {
     background: url("./images/pattern-background-desktop.svg");
     background-repeat: no-repeat;
